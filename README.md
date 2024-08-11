@@ -104,9 +104,26 @@ I'm proficient in a wide range of technologies and tools, and I enjoy staying up
 - Docker ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 - Jenkins ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-## Agile Methodologies
-- Scrum
-- Kanban
+## Software Engineering Methodologies
+- Agile ![Agile](https://img.shields.io/badge/Agile-44B78B?style=flat-square&logo=agile&logoColor=white)
+- Scrum ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrum&logoColor=white)
+- Kanban ![Kanban](https://img.shields.io/badge/Kanban-0075C2?style=flat-square&logo=kanban&logoColor=white)
+- Lean ![Lean](https://img.shields.io/badge/Lean-E2231A?style=flat-square&logo=lean&logoColor=white)
+- DevOps ![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=flat-square&logo=devops&logoColor=white)
+- Waterfall ![Waterfall](https://img.shields.io/badge/Waterfall-4A90E2?style=flat-square&logo=waterfall&logoColor=white)
+- Extreme Programming (XP) ![XP](https://img.shields.io/badge/Extreme_Programming-552C80?style=flat-square&logo=extreme-programming&logoColor=white)
+- Feature-Driven Development (FDD) ![FDD](https://img.shields.io/badge/Feature--Driven_Development-0A7EBB?style=flat-square&logo=fdd&logoColor=white)
+- Test-Driven Development (TDD) ![TDD](https://img.shields.io/badge/Test--Driven_Development-FAA916?style=flat-square&logo=tdd&logoColor=black)
+- Behavior-Driven Development (BDD) ![BDD](https://img.shields.io/badge/Behavior--Driven_Development-8B008B?style=flat-square&logo=bdd&logoColor=white)
+- Spiral ![Spiral](https://img.shields.io/badge/Spiral-6A5ACD?style=flat-square&logo=spiral&logoColor=white)
+- V-Model ![V-Model](https://img.shields.io/badge/V--Model-FF7F50?style=flat-square&logo=v-model&logoColor=white)
+- Incremental ![Incremental](https://img.shields.io/badge/Incremental-2E8B57?style=flat-square&logo=incremental&logoColor=white)
+- Rapid Application Development (RAD) ![RAD](https://img.shields.io/badge/Rapid_Application_Development-FF4500?style=flat-square&logo=rad&logoColor=white)
+- Prototyping ![Prototyping](https://img.shields.io/badge/Prototyping-00CED1?style=flat-square&logo=prototyping&logoColor=white)
+- Continuous Integration (CI) ![CI](https://img.shields.io/badge/Continuous_Integration-4169E1?style=flat-square&logo=ci&logoColor=white)
+- Continuous Deployment (CD) ![CD](https://img.shields.io/badge/Continuous_Deployment-8A2BE2?style=flat-square&logo=cd&logoColor=white)
+- Six Sigma ![Six Sigma](https://img.shields.io/badge/Six_Sigma-000000?style=flat-square&logo=six-sigma&logoColor=white)
+
 
 ## Others
 - Git ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
