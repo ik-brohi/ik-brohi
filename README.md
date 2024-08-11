@@ -31,9 +31,31 @@ I'm proficient in a wide range of technologies and tools, and I enjoy staying up
 </div>
 
 ## Programming Languages
-- Java ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 - Python ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- TypeScript ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- Java ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- C# ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+- C++ ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+- C ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+- Go ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+- Rust ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+- Swift ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+- Kotlin ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+- Dart ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+- Ruby ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+- PHP ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- R ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+- MATLAB ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+- Perl ![Perl](https://img.shields.io/badge/Perl-39457E?style=flat-square&logo=perl&logoColor=white)
+- Scala ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+- Shell Script ![Shell Script](https://img.shields.io/badge/Shell_Script-89E051?style=flat-square&logo=gnu-bash&logoColor=white)
+- Julia ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+- Haskell ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+- Elixir ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+- Lua ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+- F# ![F#](https://img.shields.io/badge/F%23-378BBA?style=flat-square&logo=fsharp&logoColor=white)
+- Objective-C ![Objective-C](https://img.shields.io/badge/Objective--C-1575F9?style=flat-square&logo=apple&logoColor=white)
 
 ## Web Development
 
